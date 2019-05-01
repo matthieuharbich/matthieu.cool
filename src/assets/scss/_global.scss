@@ -1,0 +1,34 @@
+// @import "_fonts.scss";
+
+
+$dark: #464646;
+$light: #EDEDED;
+$yellow: #FFFF00;
+$white: #FFFFFF;
+$header_heigth:55px;
+// $header_heigth_abs:80px;
+$yes: yellow;
+
+.full-height{
+  min-height: calc(100vh - 50px);
+  padding-top:72px;
+}
+
+
+
+
+// @import "http://68.183.208.228:9010/assets/toolkit/styles/toolkit.css"
+
+// @font-face {
+//   font-family: 'NeueEinstellung-SemiBold';
+//   src:  url('../fonts/NeueEinstellung/WEB/NeueEinstellung-SemiBold.woff') format('woff'),
+//         url('../fonts/NeueEinstellung/WEB/NeueEinstellung-SemiBold.woff2') format('woff2');
+//   font-weight: bold;
+//   font-style: normal;
+// }
+
+// @font-face {
+//   font-family: 'Monoist';
+//   src:  url('../fonts/Monoist/WEB/Monoist-Regular.woff2') format('woff2'),
+//         url('../fonts/Monoist/WEB/Monoist-Regular.woff') format('woff');
+// }

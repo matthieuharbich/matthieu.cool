@@ -1,0 +1,119 @@
+@font-face {
+    font-family: 'NeueEinstellung-SemiBold';
+    src:  url('../fonts/NeueEinstellung/WEB/NeueEinstellung-SemiBold.woff') format('woff'),
+          url('../fonts/NeueEinstellung/WEB/NeueEinstellung-SemiBold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'NeueEinstellung-Regular';
+    src:  url('../fonts/NeueEinstellung/WEB/NeueEinstellung-Regular.woff') format('woff'),
+          url('../fonts/NeueEinstellung/WEB/NeueEinstellung-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'NeueEinstellung-Black';
+    src:  url('../fonts/NeueEinstellung/WEB/NeueEinstellung-Black.woff') format('woff'),
+          url('../fonts/NeueEinstellung/WEB/NeueEinstellung-Black.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'NeueEinstellung-Normal';
+    src:  url('../fonts/NeueEinstellung/WEB/NeueEinstellung-Normal.woff') format('woff'),
+          url('../fonts/NeueEinstellung/WEB/NeueEinstellung-Normal.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  
+  @font-face {
+    font-family: 'Monoist';
+    src:  url('../fonts/Monoist/WEB/Monoist-Regular.woff2') format('woff2'),
+          url('../fonts/Monoist/WEB/Monoist-Regular.woff') format('woff');
+  }
+  
+  @font-face {
+    font-family: 'Amicale-book';
+    src:  url('../fonts/Amicale/WEB/amicale-book-webfont.woff2') format('woff2'),
+          url('../fonts/Amicale/WEB/amicale-book-webfont.woff') format('woff');
+  }
+  
+  @font-face {
+    font-family: 'Venetian-regular';
+    src:  url('../fonts/Venetian/WEB/HKVenetian-Regular.woff2') format('woff2'),
+          url('../fonts/Venetian/WEB/HKVenetian-Regular.woff') format('woff');
+  }
+  
+  @font-face {
+    font-family: 'type-36-black-hdc';
+    src:  url('../fonts/Type-36/WEB/type-36-black-hdc.woff2') format('woff2'),
+          url('../fonts/Type-36/WEB/type-36-black-hdc.woff') format('woff');
+  }
+  
+  @font-face {
+    font-family: 'type-36-bold-hdc';
+    src:  url('../fonts/Type-36/WEB/type-36-bold-hdc.woff2') format('woff2'),
+          url('../fonts/Type-36/WEB/type-36-bold-hdc.woff') format('woff');
+  }
+  
+  @font-face {
+    font-family: 'type-36-extrabold-hdc';
+    src:  url('../fonts/Type-36/WEB/type-36-extrabold-hdc.woff2') format('woff2'),
+          url('../fonts/Type-36/WEB/type-36-extrabold-hdc.woff') format('woff');
+  }
+  
+  @font-face {
+    font-family: 'type-36-extralight-hdc';
+    src:  url('../fonts/Type-36/WEB/type-36-extralight-hdc.woff2') format('woff2'),
+          url('../fonts/Type-36/WEB/type-36-extralight-hdc.woff') format('woff');
+  }
+  
+  @font-face {
+    font-family: 'Type-36-Italic';
+    src:  url('../fonts/Type-36/WEB/Type-36-Italic.woff2') format('woff2'),
+          url('../fonts/Type-36/WEB/Type-36-Italic.woff') format('woff');
+  }
+  
+  @font-face {
+    font-family: 'type-36-light-hdc';
+    src:  url('../fonts/Type-36/WEB/type-36-light-hdc.woff2') format('woff2'),
+          url('../fonts/Type-36/WEB/type-36-light-hdc.woff') format('woff');
+  }
+  
+  @font-face {
+    font-family: 'type-36-regular-hdc';
+    src:  url('../fonts/Type-36/WEB/type-36-regular-hdc.woff2') format('woff2'),
+          url('../fonts/Type-36/WEB/type-36-regular-hdc.woff') format('woff');
+  }
+
+  $project_title: "type-36-black-hdc";
+  
+//   @font-face {
+//     font-family: 'type-36-black-hdc';
+//     src:  url('assets/fonts/Type-36/WEB/type-36-black-hdc.woff2') format('woff2'),
+//           url('assets/fonts/Type-36/WEB/type-36-black-hdc.woff') format('woff');
+//   }
+  
+//   @font-face {
+//     font-family: 'type-36-black-hdc';
+//     src:  url('assets/fonts/Type-36/WEB/type-36-black-hdc.woff2') format('woff2'),
+//           url('assets/fonts/Type-36/WEB/type-36-black-hdc.woff') format('woff');
+//   }
+  
+//   @font-face {
+//     font-family: 'type-36-black-hdc';
+//     src:  url('assets/fonts/Type-36/WEB/type-36-black-hdc.woff2') format('woff2'),
+//           url('assets/fonts/Type-36/WEB/type-36-black-hdc.woff') format('woff');
+//   }
+  
+//   @font-face {
+//     font-family: 'type-36-black-hdc';
+//     src:  url('assets/fonts/Type-36/WEB/type-36-black-hdc.woff2') format('woff2'),
+//           url('assets/fonts/Type-36/WEB/type-36-black-hdc.woff') format('woff');
+//   }
+  
