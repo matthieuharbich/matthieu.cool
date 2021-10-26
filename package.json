@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
-    "jquery-ui": "^1.12.1",
+    "jquery-ui": "^1.13.0",
     "jquery-ui-bundle": "^1.12.1-migrate",
     "jquery-ui-touch-punch-c": "^1.4.0",
     "jquery.ripples": "^0.6.2",
